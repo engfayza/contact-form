@@ -118,7 +118,7 @@ const ContactForm = () => {
             checked={formData.consent}
             onChange={handleChange}
           />
-          please accept the rule
+         I consent to being contacted by the learn
         </label>
         {errors.consent && <p className="error">{errors.consent}</p>}
       </div>
