@@ -79,7 +79,7 @@ const ContactForm = () => {
       <div className="form-group">
         <label>Age:</label>
         <input
-          type="text"
+          type="number"
           name="age"
           placeholder="Age"
           value={formData.age}

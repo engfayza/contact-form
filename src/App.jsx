@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>contact us</h1>
+      <h1>Contact Us</h1>
       <ContactForm />
     </>
   )
